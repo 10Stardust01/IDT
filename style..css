@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #eef2f3, #dfe9f3);
+    text-align: center;
+    padding: 40px;
+}
+
+input {
+    width: 320px;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 6px;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 16px;
+    background: #2c7be5;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+
+#result {
+    margin-top: 30px;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h3 {
+    margin-top: 20px;
+    color: #2c7be5;
+}
+.topic-img {
+    width: 100%;
+    max-width: 600px;
+    margin: 15px 0;
+    border-radius: 10px;
+    display: block;
+}
